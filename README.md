@@ -6,8 +6,8 @@ The project focuses on a simple business problem: important information from cal
 
 ## Links
 
-- Google Play: [ConvoComplete listing](https://play.google.com/store/search?q=ConvoComplete&c=apps)
-- Status: Public project overview and devlog
+- Google Play: [ConvoComplete on Google Play](https://play.google.com/store/apps/details?id=com.kusum.app)
+- Status: Closed testing. The app is currently available only to approved testers and is not accessible to everyone yet.
 
 ## Problem
 
@@ -90,6 +90,7 @@ Future versions may connect with tools such as calendars, CRM systems, WhatsApp,
 - README structure created
 - Roadmap drafted
 - Public project overview prepared
+- Closed testing listing added on Google Play
 
 ## Roadmap
 
