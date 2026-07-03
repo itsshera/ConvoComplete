@@ -1,8 +1,6 @@
 # ConvoComplete
 
-ConvoComplete is an AI-powered call intelligence product that turns business calls into useful structured outputs such as transcripts, summaries, tasks, follow-ups, decisions, deadlines, and CRM-ready notes.
-
-The project focuses on a simple problem: important information from calls is often lost after the conversation ends. ConvoComplete helps teams review calls faster and follow up more reliably.
+ConvoComplete turns business calls into transcripts, summaries, tasks, follow-ups, decisions, deadlines, and CRM-ready notes.
 
 ## Links
 
@@ -11,33 +9,13 @@ The project focuses on a simple problem: important information from calls is oft
 
 ## Problem
 
-Business calls often contain important details, but most of that information is not stored in a useful format.
-
-Common problems include:
-
-- Teams forget important follow-ups.
-- Managers cannot review every call manually.
-- Tasks discussed on calls are not always written down.
-- CRM notes are often incomplete.
-- Important decisions get buried inside long recordings.
-- Sales and support teams spend extra time writing manual summaries.
+Important information from calls is often lost after the conversation ends.
 
 ## Solution
 
-ConvoComplete processes call audio and converts it into clear, structured outputs that teams can use immediately.
-
-The product is designed to help users:
-
-- Review call summaries quickly.
-- Capture action items and next steps.
-- Identify deadlines and follow-ups.
-- Preserve important decisions.
-- Create cleaner notes for sales, support, and operations workflows.
-- Reduce manual work after calls.
+ConvoComplete helps teams turn conversations into structured outputs they can review, search, share, and act on.
 
 ## Core Outputs
-
-Expected outputs include:
 
 - Call transcript
 - Short call summary
@@ -49,45 +27,17 @@ Expected outputs include:
 - Key decisions
 - CRM-ready notes
 
-## Example Output
-
-```text
-Task: Send proposal to customer
-Owner: Sales executive
-Due: Tomorrow
-Status: Pending
-```
-
-## Current Progress
-
-- Project idea defined
-- Core use case identified
-- Product description written
-- Public project overview prepared
-- Public Google Play listing available
-
 ## Roadmap
 
-- Improve call input and audio handling
-- Add speech-to-text processing
-- Add AI summary generation
-- Add action item extraction
-- Create a simple dashboard
-- Test with real call examples
-- Improve output quality for business teams
-
-## Future Improvements
-
-- Speaker identification
-- Sentiment analysis
-- CRM sync
-- Calendar event creation
-- WhatsApp summary delivery
-- Searchable call history
+- Better audio handling
+- Speech-to-text processing
+- AI summary generation
+- Action item extraction
 - Team dashboard
-- Role-based access
-- Customer-wise call timeline
+- Searchable call history
+- CRM sync
+- Calendar follow-ups
 
-## Repository Note
+## Vision
 
-This repository contains public project information, documentation, and sample files for overview purposes.
+No important business conversation should be forgotten.
