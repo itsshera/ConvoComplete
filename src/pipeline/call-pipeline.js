@@ -1,6 +1,6 @@
 import { makeQuickSummary } from '../prototype/summary.js';
 import { findActionItems } from '../prototype/action-items.js';
-import { buildCrmNote } from '../exporters/crm-note.js';
+import { buildCrmNote } from '../exporters/note.js';
 
 export function processCallTranscript(input) {
   const startedAt = new Date().toISOString();
