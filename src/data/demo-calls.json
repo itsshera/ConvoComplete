@@ -1,0 +1,23 @@
+[
+  {
+    "id": "call_001",
+    "title": "pricing discussion with amit",
+    "status": "reviewed",
+    "summary": "customer liked the demo and asked for pricing, privacy details, and a friday follow up",
+    "owner": "riya"
+  },
+  {
+    "id": "call_002",
+    "title": "support renewal call",
+    "status": "needs follow up",
+    "summary": "account has a renewal question and wants a cleaner breakdown of next month billing",
+    "owner": "support"
+  },
+  {
+    "id": "call_003",
+    "title": "ops onboarding chat",
+    "status": "new",
+    "summary": "operations team wants a dashboard view and simple exports for managers",
+    "owner": "product"
+  }
+]
