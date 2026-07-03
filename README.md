@@ -1,10 +1,10 @@
-# ConvoComplete
+# ConvoComplete's Kusum
 
-ConvoComplete turns business calls into transcripts, summaries, tasks, follow-ups, decisions, deadlines, and CRM-ready notes.
+ConvoComplete (Kusum) turns business calls into transcripts, summaries, tasks, follow-ups, decisions, deadlines, and CRM-ready notes.
 
 ## Links
 
-- Google Play: [ConvoComplete on Google Play](https://play.google.com/store/apps/details?id=com.kusum.app)
+- Google Play: [Kusum on Google Play](https://play.google.com/store/apps/details?id=com.kusum.app)
 - Status: The app is publicly available on Google Play.
 
 ## Problem
