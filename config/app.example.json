@@ -1,0 +1,21 @@
+{
+  "appName": "ConvoComplete",
+  "mode": "prototype",
+  "features": {
+    "summaries": true,
+    "actionItems": true,
+    "crmNotes": false,
+    "calendarFollowups": false,
+    "speakerLabels": false
+  },
+  "processing": {
+    "maxTranscriptLines": 500,
+    "summaryLines": 3,
+    "minActionConfidence": 0.4
+  },
+  "ui": {
+    "defaultView": "dashboard",
+    "showConfidence": true,
+    "showRawTranscript": true
+  }
+}
