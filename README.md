@@ -7,8 +7,7 @@ The project focuses on a simple business problem: important information from cal
 ## Links
 
 - Google Play: [ConvoComplete on Google Play](https://play.google.com/store/apps/details?id=com.kusum.app)
-- Access: The app is currently open for closed testing. Please fill this form to request access: https://forms.gle/RrfwsPtGcbGjWSu27
-- Production status: We have submitted the app for production release, but the approval and rollout process can take time.
+- Status: Closed testing. The app is currently available only to approved testers and is not accessible to everyone yet.
 
 ## Problem
 
@@ -92,8 +91,6 @@ Future versions may connect with tools such as calendars, CRM systems, WhatsApp,
 - Roadmap drafted
 - Public project overview prepared
 - Closed testing listing added on Google Play
-- Closed testing access form added
-- Production release submitted for review
 
 ## Roadmap
 
@@ -141,4 +138,4 @@ The final output should be short, clear, and actionable. The goal is not just to
 
 ## Repository Note
 
-This public repository is intentionally limited to a product README and devlog. Source code, credentials, infrastructure details, and private implementation files are not included.
+This public repository is intentionally limited to a product README and devlog. Private implementation files are not included.
