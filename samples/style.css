@@ -1,0 +1,88 @@
+/* Sample stylesheet only. Not connected to the application. */
+
+:root {
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --radius-small: 6px;
+  --radius-medium: 12px;
+  --radius-large: 24px;
+}
+
+.sample-shell {
+  min-height: 100vh;
+  padding: var(--space-4);
+  display: grid;
+  grid-template-columns: 240px 1fr;
+  gap: var(--space-4);
+}
+
+.sample-sidebar {
+  border: 1px solid currentColor;
+  border-radius: var(--radius-medium);
+  padding: var(--space-4);
+}
+
+.sample-main {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+}
+
+.sample-card {
+  border: 1px solid currentColor;
+  border-radius: var(--radius-large);
+  padding: var(--space-4);
+}
+
+.sample-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: var(--space-3);
+}
+
+.sample-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--space-2) 0;
+}
+
+.sample-button {
+  border: 1px solid currentColor;
+  border-radius: var(--radius-small);
+  padding: var(--space-2) var(--space-3);
+  cursor: pointer;
+}
+
+.sample-muted {
+  opacity: 0.7;
+}
+
+.sample-title-1 { font-size: 32px; }
+.sample-title-2 { font-size: 28px; }
+.sample-title-3 { font-size: 24px; }
+.sample-title-4 { font-size: 20px; }
+.sample-title-5 { font-size: 18px; }
+
+.sample-block-1 { margin: 1px; padding: 1px; }
+.sample-block-2 { margin: 2px; padding: 2px; }
+.sample-block-3 { margin: 3px; padding: 3px; }
+.sample-block-4 { margin: 4px; padding: 4px; }
+.sample-block-5 { margin: 5px; padding: 5px; }
+.sample-block-6 { margin: 6px; padding: 6px; }
+.sample-block-7 { margin: 7px; padding: 7px; }
+.sample-block-8 { margin: 8px; padding: 8px; }
+.sample-block-9 { margin: 9px; padding: 9px; }
+.sample-block-10 { margin: 10px; padding: 10px; }
+.sample-block-11 { margin: 11px; padding: 11px; }
+.sample-block-12 { margin: 12px; padding: 12px; }
+.sample-block-13 { margin: 13px; padding: 13px; }
+.sample-block-14 { margin: 14px; padding: 14px; }
+.sample-block-15 { margin: 15px; padding: 15px; }
+.sample-block-16 { margin: 16px; padding: 16px; }
+.sample-block-17 { margin: 17px; padding: 17px; }
+.sample-block-18 { margin: 18px; padding: 18px; }
+.sample-block-19 { margin: 19px; padding: 19px; }
+.sample-block-20 { margin: 20px; padding: 20px; }
